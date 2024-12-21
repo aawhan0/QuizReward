@@ -13,6 +13,9 @@ The **QuizReward** smart contract is designed to distribute ERC-20 token rewards
 ## Contract Address
 0x18a6aD5210B896b88860B73B33CDfEdB5c19cF60
 
+![image](https://github.com/user-attachments/assets/3994ea9d-92ec-4e3b-868e-9f5664ff4ac6)
+
+
 ## Project Vision
 The vision of the **QuizReward** project is to provide a gamified and rewarding experience for users who participate in quizzes. By integrating blockchain technology and ERC-20 tokens, the platform can ensure transparency, security, and fair distribution of rewards, incentivizing users to participate more actively in quizzes and educational content. This will help create a robust ecosystem where users are directly rewarded for their engagement.
 
